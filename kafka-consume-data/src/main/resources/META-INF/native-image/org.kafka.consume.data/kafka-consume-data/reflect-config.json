@@ -1,0 +1,7 @@
+[
+  {
+    "name": "org.kafka.consume.data.Greeting",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]

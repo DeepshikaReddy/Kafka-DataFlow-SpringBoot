@@ -122,7 +122,8 @@
   <modules>
       
     <module>kafka-producer-data</module>
-      
+
+    <module>kafka-consume-data</module>
   </modules>
 </project>
 
