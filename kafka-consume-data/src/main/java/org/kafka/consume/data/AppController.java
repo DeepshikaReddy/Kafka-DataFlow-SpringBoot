@@ -15,7 +15,7 @@ public class AppController {
     private MediaRepo dataRepository;
 
     @RequestMapping("/fetchEventData")
-    public List<StreamData> greeting() {
+    public List<StreamData> fetchEventData() {
         return dataRepository.findAll();
     }
 }
